@@ -1,0 +1,188 @@
+
+    .subscribe-button{
+        background-color: rgb(204,0,0);
+        color: white;
+        border: none;
+        height: 42px;
+        width: 115px;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-right: 8px;
+           }
+    .subscribe-button:hover{
+            opacity: 0.7;}
+            .subscribe-button:active{
+                opacity: 0.4;
+            }
+    .join-button{
+        border-color: blue;
+        border-style: solid;
+        border-width: 1px;
+        background-color: white;
+        color:rgb(39,39,145) ;
+        border-radius: 2px;
+        margin-right: 8px;
+        cursor: pointer;
+        transition :  background-color 0.15s,
+        color 0.15s;
+        padding-left: 16px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+        padding-right: 16px;
+        vertical-align: top;
+    }
+    .join-button:hover{
+        background-color:rgb(39, 39, 135) ;
+        color: white;
+        opacity: 0.7;    
+    }
+    .join-button:active{
+        color: white;
+        opacity: 0.4;   
+    }
+    .tweet-button{
+        padding-left: 21px;
+        padding-right: 21px;
+        padding-top: 13px;
+        padding-bottom: 13px;
+        background-color:rgb(2, 158, 255);
+        color: white;
+        font-style: bold ;
+        border-radius: 21px;
+        border:none;
+        font-weight: bold;
+        font-size: medium;
+        cursor: pointer;
+        transition: box-shadow 0.15s;
+        
+    }
+    .tweet-button:hover{
+        box-shadow: 10px 10px 10px black;
+    }
+    .uber-requestnow {
+        background-color: black;
+        color: white;
+        border: none;
+        height: 40px;
+        width: 110px;
+        cursor: pointer;
+            }
+    .amazon-button {
+        background-color: rgb(255, 216, 20);
+        border: none;
+        height: 30px;
+        width: 140px;
+        border-radius: 15px;
+        cursor: pointer;
+        }
+    .get-started{
+        background-color: rgb(145, 48, 145);
+        border-radius: 3px;
+        height: 45px;
+        width: 115px;
+        font-weight: bold;
+        color: rgb(237, 239, 240);
+        border: none;
+        font-size: medium;
+        }
+        .download{
+            background-color: white;
+        border-radius: 3px;
+        height: 45px;
+        width: 115px;
+        font-weight: bold;
+        color: rgb(97, 58, 98);
+        border-color: rgb(97, 58, 98);
+        font-size: medium;
+
+        }
+        .buynow
+        {
+        background-color: rgb(219, 189, 41);
+        border: none;
+        height: 30px;
+        width: 140px;
+        border-radius: 15px;
+        cursor: pointer
+        }
+        .back-button {
+            background-color: blanchedalmond;
+            border:none;
+            margin-right: 8px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-left: 5px;
+            padding-right: 5px;
+            font-size: 16px;
+          }
+        
+          .search_result {
+            margin-left: 5px;
+            margin-right: 5px;
+
+            font-size: 18px;
+          }
+        
+          .next-button {
+            background-color: blanchedalmond;
+            border: none;
+            margin-left: 8px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-left: 5px;
+            padding-right: 5px;
+            font-size: 16px;
+        }
+        .stretch-button{
+            background-color: green;
+            color: white;
+            font-size: medium;
+            border: none;
+            cursor: pointer;
+            padding-left: 15px;
+            padding-top: 8px;
+            padding-bottom:8px;
+            padding-right:15px;
+        }
+        .stretch-button:hover{
+            padding-left: 45px;
+            padding-top: 30px;
+            padding-bottom:30px;
+            padding-right:45px;
+            
+        }
+        .shadow_button{
+            background-color: rgb(89, 167, 212);
+            color: balck;
+            font-size: medium;
+            border: none;
+            cursor: pointer;
+            padding-left: 15px;
+            padding-top: 8px;
+            padding-bottom:8px;
+            padding-right:15px;
+
+        }
+        .shadow_button:active{
+            box-shadow: 5px 5px 5px black;
+        }
+        .width_change{
+            background-color: green;
+            color: white;
+            font-size: medium;
+            border: none;
+            cursor: pointer;
+            padding-left: 15px;
+            padding-top: 8px;
+            padding-bottom:8px;
+            padding-right:15px;
+            margin-right: 7px;
+        }
+        .width_change:hover{
+            padding-left: 35px;
+            padding-right:35px;
+            
+        }
+
+  
+        
