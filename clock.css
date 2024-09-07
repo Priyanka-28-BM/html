@@ -1,0 +1,45 @@
+body {
+  font-family:'Orbitron',sans-serif;
+  text-align: center;
+  background-color: white;
+  background: radial-gradient(circle at center, #ffffff 0%, #ffebeb 50%, #ffc0c0 100%);
+  
+
+}
+
+h1 {
+  font-size: 4em;
+  margin-top: 200px;
+  margin-bottom: 20px;
+}
+
+.clock-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0e0404;
+  padding: 10px;
+  border-radius: 20px;
+  display: flex;
+  margin-left: 544px;
+  margin-right: 544px;
+}
+
+.time-block {
+  background-color: #ea4112;
+  color: #eee8e8;
+  font-size: 3em;
+  font-weight: bold;
+  padding: 10px 30px 10px 30px;
+  margin: 8px;
+  border-radius: 10px;
+}
+.last-block {
+  background-color: #ea4112;
+  color: #eee8e8;
+  font-size: 3em;
+  font-weight: bold;
+  padding: 10px 40px 10px 40px;
+  margin: 8px;
+  border-radius: 10px;
+}
